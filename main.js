@@ -1,7 +1,7 @@
 // Website content data
 const websiteContent = {
   hero: {
-    title: 'Deals Genie',
+    title: 'Deals Genie by deallzap',
     tagline: 'Your Smart Shopping Companion on Telegram',
     ctaLink: 'https://t.me/TheDealsGenieBot',
     ctaText: 'Start Using Bot',
