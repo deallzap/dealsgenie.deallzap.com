@@ -2,7 +2,7 @@
 const websiteContent = {
   hero: {
     title: 'Deals Genie by deallzap',
-    tagline: 'Your Smart Shopping Companion on Telegram',
+    tagline: 'Your Smart Shopping Companion on Telegram llllllllllllllllllllllllllllllllllll',
     ctaLink: 'https://t.me/TheDealsGenieBot',
     ctaText: 'Start Using Bot',
   },
